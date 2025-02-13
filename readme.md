@@ -7,3 +7,5 @@ backend / server :
 
 - npm install
 - untuk menjalankan npx nodemon app.js
+
+bisa di git clone https://github.com/LegendS21/daya-rekadigital.git
