@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "Chicken & Ribs Combo", "harga": 120000 },
+  { "id": 2, "name": "Surf & Turf Gift Basket", "harga": 95000 },
+  { "id": 3, "name": "Fried Chicken Dinner", "harga": 75000 },
+  { "id": 4, "name": "BBQ Rib Dinner", "harga": 85000 },
+  { "id": 5, "name": "Dark & Stormy", "harga": 45000 },
+  { "id": 6, "name": "Shaking Beef Tri-Tip", "harga": 110000 },
+  {
+    "id": 7,
+    "name": "Nasi Goreng Jamur Special Resto Pak Min",
+    "harga": 65000
+  },
+  { "id": 8, "name": "Tongseng Sapi Gurih", "harga": 78000 },
+  { "id": 9, "name": "Nasi Gudeg Telur Ceker", "harga": 55000 },
+  { "id": 10, "name": "Nasi Ayam Serundeng", "harga": 68000 }
+]
